@@ -1,0 +1,46 @@
+table{
+  border-collapse: separate;
+  border-spacing: 100px 5px;
+}
+
+p { 
+  font-family: cursive;:
+
+}
+
+button {
+ 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+
+.btn1 {
+   background-color: #4CAF50; /* Green */
+}
+
+.btn2 {
+
+  background-color: #f44336; /* Red */
+}
+
+.btn3 {
+
+  background-color: #008CBA;
+}
+
+body {
+  height: 500px;
+  background-image: url("https://image.freepik.com/foto-gratis/portatil-cuadernos-mesa-madera_23-2148036917.jpg");
+  background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+
+}
+
